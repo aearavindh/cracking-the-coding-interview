@@ -3,6 +3,13 @@ package arrays_and_strings;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * Check Permutation: Given two strings, write a method to decide if one is a permutation of the
+other.
+ * 
+ * @author aearavindh
+ *
+ */
 public class CheckPermutation {
 	public static void main(String[] args) {
 		int t;
